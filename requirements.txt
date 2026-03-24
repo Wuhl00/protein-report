@@ -1,0 +1,8 @@
+biopython
+requests
+matplotlib
+fpdf
+pandas
+numpy
+lxml
+PyPDF2
