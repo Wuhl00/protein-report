@@ -1,0 +1,5 @@
+- analysis_runs/
+- __pycache__/
+- .venv/ , venv/
+- *.pdf , *.png
+- *.tmp.pdf
