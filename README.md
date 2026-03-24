@@ -18,12 +18,8 @@ Minimal files needed (for non-Trae users)
   - input.fasta (your input; can be replaced each run)
   - README.txt (this file)
 
-Optional (Trae integration)
-  If you want to use it as a Trae Skill, additionally include:
-    .trae\skills\bioinformatics\SKILL.md
-
 Installation
-  1) Create and activate a Python environment (recommended).
+  1) Create and activate a Python environment (Python ≥3.8, Recommended: 3.10+).
   2) Install dependencies:
        pip install -r requirements.txt
 
